@@ -1,1 +1,28 @@
-# WebDrive
+# WebDrive Project
+
+WebDrive is a web application that provides a user-friendly interface for managing and organizing files and folders in the cloud. It comes with a Django backend and a React frontend.
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [API Endpoints](#api-endpoints)
+- [Contact Information](#contact-information)
+
+## Project Overview
+
+WebDrive aims to simplify file and folder management by providing users with a seamless experience. The project consists of a Django backend that handles server-side operations and a React frontend for the user interface.
+
+## Features
+
+- **User Authentication:** Users can create accounts, log in, and securely manage their files.
+- **File and Folder Operations:** Create, delete, rename, and organize files and folders.
+- **File Upload and Download:** Upload files to the cloud and download them when needed.
+- **Security:** User authentication and secure API endpoints ensure data privacy.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
