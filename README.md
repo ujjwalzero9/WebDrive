@@ -57,6 +57,6 @@ WebDrive is a web application that provides a user-friendly interface for managi
 For any inquiries or support, please contact:
 
 - **Developer:** [Ujjwal Kumar]
-- **Email:** [Ujjwal Kuamr]
+- **Email:** [Ujjwalzero9@gmail.com]
 - **LinkedIn:** [https://www.linkedin.com/in/ujjwalzero9/]
 - **GitHub:** [https://github.com/ujjwalzero9/]
