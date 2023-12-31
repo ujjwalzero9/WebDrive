@@ -13,7 +13,7 @@ WebDrive is a web application that provides a user-friendly interface for managi
 ## Project Overview
 
 WebDrive aims to simplify file and folder management by providing users with a seamless experience. The project consists of a Django backend that handles server-side operations and a React frontend for the user interface.
-
+![Image]([link-to-your-image](https://github.com/ujjwalzero9/WebDrive/blob/main/homePage.jpg))
 ## Features
 
 - **User Authentication:** Users can create accounts, log in, and securely manage their files.
