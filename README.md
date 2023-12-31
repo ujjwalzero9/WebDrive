@@ -13,7 +13,7 @@ WebDrive is a web application that provides a user-friendly interface for managi
 ## Project Overview
 
 WebDrive aims to simplify file and folder management by providing users with a seamless experience. The project consists of a Django backend that handles server-side operations and a React frontend for the user interface.
-![Image](https://github.com/ujjwalzero9/WebDrive/blob/main/homePage.jpg) ![Image]https://github.com/ujjwalzero9/WebDrive/blob/main/siteLandingPage.jpg
+ ![Image](https://github.com/ujjwalzero9/WebDrive/blob/main/siteLandingPage.jpg)
 ## Features
 
 - **User Authentication:** Users can create accounts, log in, and securely manage their files.
@@ -33,11 +33,12 @@ WebDrive is a web application that provides a user-friendly interface for managi
 
 ## Usage
 
-1. Access the application at [http://localhost:3000](http://localhost:3000) in your web browser.
+1. Access the application at [https://webdriveujjwal07.netlify.app/](https://webdriveujjwal07.netlify.app/) in your web browser.
 2. Sign up or log in to your account.
 3. Explore and manage your files and folders through the intuitive interface.
 
 ## API Endpoints
+![Image](https://github.com/ujjwalzero9/WebDrive/blob/main/homePage.jpg)
 
 - **Create User:** `POST /api/create_user/`
 - **Create Entity (File/Folder):** `POST /api/create_entity/`
