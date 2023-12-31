@@ -37,8 +37,9 @@ WebDrive is a web application that provides a user-friendly interface for managi
 2. Sign up or log in to your account.
 3. Explore and manage your files and folders through the intuitive interface.
 
-## API Endpoints
 ![Image](https://github.com/ujjwalzero9/WebDrive/blob/main/homePage.jpg)
+
+## API Endpoints
 
 - **Create User:** `POST /api/create_user/`
 - **Create Entity (File/Folder):** `POST /api/create_entity/`
