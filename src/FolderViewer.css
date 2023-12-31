@@ -1,0 +1,22 @@
+/* Add this CSS to your component or a separate CSS file */
+.context-menu {
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 5px;
+    z-index: 1000;
+  }
+  
+  /* Optional: You can style the input and button for renaming the folder */
+  .context-menu input {
+    margin-right: 5px;
+  }
+  
+  .context-menu button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  

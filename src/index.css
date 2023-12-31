@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.folder {
+    display: flex; /* Align the button and folder name horizontally */
+    align-items: center; /* Center vertically */
+    border: 1px solid #e30808; /* Add a border to mimic a folder outline */
+    padding: 5px; /* Add padding for spacing */
+    margin-bottom: 5px; /* Add margin to separate folders */
+  
+    /* Style the delete button */
+    .folder button {
+      margin-left: 5px;
+    }
+  }
+  
+  /* ContextMenuStyles.css */
+
+.folder-context-menu {
+  position: fixed;
+  z-index: 1000;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  max-width: 200px;
+  padding: 8px 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.menu-item {
+  padding: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.menu-item:hover {
+  background-color: #f2f2f2;
+}
+
+.rename-input {
+  margin: 8px;
+  padding: 4px;
+}
+
+.rename-actions {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+}
